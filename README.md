@@ -6,7 +6,7 @@ A web application for generating invoices, built using React, provides an effici
 https://quickbills-invoicegenerator.vercel.app/
 
 ## Installation 
-### 1.clone this repository
+### 1. clone this repository
 
 ### 2. change the directory 
 ```shell
@@ -20,7 +20,7 @@ npm install
 
 ### Run the project
 ```shell
-npm install
+npm start
 ```
 
 ### Open the browser and navigate to 
